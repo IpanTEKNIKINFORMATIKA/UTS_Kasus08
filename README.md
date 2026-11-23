@@ -5,7 +5,7 @@ Sistem Kecerdasan Buatan berbasis Web interaktif untuk memprediksi tingkat risik
 ---
 
 ## 👤 Identitas Pengembang
-* **Nama:** [Nama Anda]
+* **Nama:** [Ipan]
 * **NIM:** 23552011090
 * **Kelas:** TIF RM23A
 * **Mata Kuliah:** UTS Intelegensi Buatan
